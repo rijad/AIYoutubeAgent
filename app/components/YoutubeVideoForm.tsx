@@ -1,4 +1,3 @@
-import React from "react";
 import Form from "next/form";
 import AnalyseButton from "./AnalyseButton";
 import analyseYoutubeVideo from "@/actions/analyseYoutubeVideo";

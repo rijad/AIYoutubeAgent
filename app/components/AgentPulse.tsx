@@ -1,5 +1,3 @@
-import React from "react";
-
 type AgenPulseProps = {
   size?: "small" | "medium" | "large";
   color?: "blue" | "green" | "purple";

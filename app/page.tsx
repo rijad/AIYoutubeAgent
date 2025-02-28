@@ -1,4 +1,3 @@
-import Image from "next/image";
 import AgentPulse from "./components/AgentPulse";
 import { Brain, ImageIcon, MessageSquare, Sparkles, Video } from "lucide-react";
 import YoutubeVideoForm from "./components/YoutubeVideoForm";
@@ -118,7 +117,7 @@ export default function Home() {
         </div>
       </section>
       <section className="py-20 bg-gray-50">
-        <div className="container mx-auto px-4 max-w-6l">
+        <div className="container mx-auto px-4 max-w-6l mx-auto">
           <h2 className="text-3xl font-bold text-center mb-12">
             Meet Your AI Agent in 3 Simple Stels
           </h2>

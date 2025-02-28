@@ -73,7 +73,7 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       <section className="py-20 bg-gradient-to-b from-white to-gray-50">
-        <div className="container mb-auto px-4">
+        <div className="container mb-auto px-4 mx-auto">
           <div className="flex flex-col items-center gap-10 text-center mb-12">
             <AgentPulse size="large" color="blue" />
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
@@ -117,7 +117,7 @@ export default function Home() {
         </div>
       </section>
       <section className="py-20 bg-gray-50">
-        <div className="container mx-auto px-4 max-w-6l mx-auto">
+        <div className="container mx-auto px-4 max-w-6l">
           <h2 className="text-3xl font-bold text-center mb-12">
             Meet Your AI Agent in 3 Simple Stels
           </h2>
